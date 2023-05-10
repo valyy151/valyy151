@@ -33,6 +33,9 @@
 A web application built with Typescript and  React that provides a platform for digital nomads to find remote work opportunities, create articles, follow other users, and chat with them. It aims to connect remote workers from around the world, providing them with a space to share their experiences and expertise.
 ### [vikings-vs-saxons](https://github.com/valyy151/vikings-vs-saxons) 
 A turn-based game where two players control armies of Vikings and Saxons. The objective of the game is to destroy the enemy army before they destroy yours.
+### [valylauncher](https://github.com/valyy151/valylauncher)
+A simple and efficient launcher that automates the process of setting up a fully working backend API with TypeScript.
+
 
 ## Contact Me
 You can reach me at: 
