@@ -1,10 +1,5 @@
 # Hi, I'm Vali 👋
-### I'm a Full-Stack Web Developer with experience in the MERN stack (MongoDB, Express, React, and Node.js). I'm passionate about reading, coding and problem solving.
-
-## What I Do
-- Develop RESTful APIs
-- Write maintainable and efficient code
-- Develop web applications using the MERN stack
+### I'm a Full-Stack Web Developer with experience in the MERN and T3 Stack. I'm passionate about reading, coding and problem solving.
 
 
 ##  Skills
@@ -27,8 +22,8 @@
  Here are some of my recent projects:
 
 
-### [staffhub](https://github.com/orgs/staffhub-vali/repositories) 
-A web application built with Typescript and  React that provides a platform for owners of small businesses or team managers to manage their staff.
+### [staffhub](https://github.com/valyy151/staffhub) 
+A web application built with Typescript and  Next.js that provides a platform for owners of small businesses or team managers to manage their staff.
 ### [remote-tribe](https://github.com/remote-tribe/remote-tribe-client) 
 A web application built with Typescript and  React that provides a platform for digital nomads to find remote work opportunities, create articles, follow other users, and chat with them. It aims to connect remote workers from around the world, providing them with a space to share their experiences and expertise.
 ### [vikings-vs-saxons](https://github.com/valyy151/vikings-vs-saxons) 
