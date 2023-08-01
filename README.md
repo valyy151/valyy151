@@ -1,5 +1,5 @@
 # Hi, I'm Vali 👋
-### I'm a Full-Stack Web Developer with experience in the MERN and T3 Stack. I'm passionate about reading, coding and problem solving.
+### I'm a Full-Stack Web Developer with experience in the T3 and MERN Stack. I'm passionate about reading, coding and problem solving.
 
 
 ##  Skills
